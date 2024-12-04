@@ -1,0 +1,26 @@
+.c{
+    background-color: rgb(167, 185, 127);
+    border-radius: 100px;
+}
+h1{
+    color: #859D71;
+    background-color: #0b2c3d;
+    text-align: center;
+    margin:0px;
+    padding: 0px;
+}
+body{
+    background-color: #88be5c;
+    padding: 0px;
+}
+.main{
+    padding: 0px;
+    margin: 0px;
+}
+button{
+    background-color: #0b2c3d;
+    padding: 10px;
+    border-radius: 100px;
+    color: #88be5c;
+    
+}
